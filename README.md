@@ -1,6 +1,6 @@
 # Node.js Google cloud vision api test project.
 
-### Setup the authentication & authorization for lynux users , put the below mentioned content in your .bashrc file and replace the path.
+### Setup the authentication & authorization for linux users , put the below mentioned content in your .bashrc file and replace the path.
 	export GOOGLE_APPLICATION_CREDENTIALS='path to your google service account json file'
 
 ### Setup the project.
