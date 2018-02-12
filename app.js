@@ -40,6 +40,8 @@ client
   .then(results => {
     const faces = results[0].faceAnnotations;
 
+    console.log(faces);
+
     console.log('Faces:');
     faces.forEach((face, i) => {
       console.log(`  Face #${i + 1}:`);
